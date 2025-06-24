@@ -72,6 +72,9 @@ DeviceFileEvents
 | order by Timestamp desc
 ```
 ✅ Multiple file events referencing pwncrypt were discovered.
+
+![image](https://github.com/user-attachments/assets/b1c7338b-f61b-4837-8d84-98e33975387e)
+
 ____
 
 ## **⌚ Step 2: Process Timeline Correlation**
@@ -89,6 +92,8 @@ DeviceProcessEvents
 | order by Timestamp desc
 ```
 ⚠️ A PowerShell script named pwncrypt.ps1 was confirmed to have launched on the system.
+
+![image](https://github.com/user-attachments/assets/9b5e802e-aaa9-49c4-969f-7ad84f720c06)
 ____
 
 ## **🌐 Step 3: Exfiltration Check**

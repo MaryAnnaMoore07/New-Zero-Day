@@ -1,4 +1,4 @@
-## **🛡️ Threat Hunt Report: Detection of New Zero Day Incident**
+## **🛡️ Incident Response Report: Detection of New Zero Day Incident**
 
 ![Zero Day](https://github.com/user-attachments/assets/933cf0ce-9f26-44c2-ad32-d0aec8c70bf6)
 
